@@ -1,0 +1,6 @@
+domain: cronjob-controller.mgcloud.link
+layout:
+- go.kubebuilder.io/v3
+projectName: cronjob-controller
+repo: github.com/michael-goe/cronjob-controller
+version: "3"
