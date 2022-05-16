@@ -1,0 +1,6 @@
+apiVersion: batch.cronjob-controller.mgcloud.link/v1
+kind: CronJob
+metadata:
+  name: cronjob-sample
+spec:
+  # TODO(user): Add fields here
